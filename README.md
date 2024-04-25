@@ -1,6 +1,6 @@
 # Shopping Cart
 
-> This code was built following a tutorial: Redux Toolkit Tutorial – JavaScript State Management Library. We can increment and decrease the quantities of the items in the cart, clear the cart, check the quantity of items in it and the total price.
+> This code was built following a [Redux Toolkit Tutorial – JavaScript State Management Library](https://www.youtube.com/watch?v=bbkBuqC1rU4). It is a mobile store cart where we can increment and decrease the quantities of the items in the cart, clear the cart, check the quantity of items in it and the total price.
 
 ![screenshot](./mobile-store.gif)
 
@@ -20,23 +20,15 @@ $ npm install
 $ npm run start
 ```
 
-### Run tests
-
-To run the test just use the following command!
-
-```bash
-$ npm test
-```
-
 ## Live Demos
 
-- [Github Deployment](https://sahar-abdelsamad.github.io/shopping-cart)
+- [Github Deployment](https://sahar-abdelsamad.github.io/shopping-cart/)
 
 
 ## Built With
 
-- React
-- Webpack
+- ReactJS
+- Redux Toolkit
 - JavaScript
 - CSS
 
